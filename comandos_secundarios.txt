@@ -5,3 +5,8 @@ esse arquivo contem comandos secundários de git
 
 comandos mais genéricos
 -comandos estranhos
+
+mais comandos 
+okjndf
+kmndfg
+kdmnfg
