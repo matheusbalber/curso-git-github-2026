@@ -2,7 +2,7 @@
 
 
 
-um curso para iniciantes 
+um curso para iniciantes
 
 aprenderem a trabalhar com
 
@@ -24,3 +24,14 @@ Confira tudo o que temos no
 
 nosso Youtube. É Gratis!
 
+
+
+-----
+
+
+
+pessoas participantes:
+
+
+
+* mat
