@@ -1,6 +1,6 @@
 \# Curso TMW Git \& GitHub 2026
 
-
+alem do nosso canal do youtube , temoso site, vocÊ pode verificar tudo que vai estar online em 2026: teo me why
 
 um curso para iniciantes
 
